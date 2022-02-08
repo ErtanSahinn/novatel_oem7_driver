@@ -47,7 +47,6 @@ add_message_files(DIRECTORY msg FILES
   SolutionStatus.msg
   SolutionSource.msg
   SubscriptionType.msg
-  TERRASTARINFO.msg
   Translation.msg
   TranslationOffset.msg
 )
